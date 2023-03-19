@@ -1,8 +1,7 @@
 title: Rahma Amalia # your name (or website title) here
 logo: "/images/profile.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  <h4>I am an active student from Surabaya State University, majoring in Informatics Engineering who has a passion for learning, especially in terms of data science. Have optimal physical abilities and always be neat, agile, organized, and fully responsible in carrying out work. Adaptable and able to work in team.</h4> 
-  <br><br>
+  I am an active student from Surabaya State University, majoring in Informatics Engineering who has a passion for learning, especially in terms of data science. Have optimal physical abilities and always be neat, agile, organized, and fully responsible in carrying out work. Adaptable and able to work in team.
   <a href="https://www.linkedin.com/in/rahmaamalia26/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
