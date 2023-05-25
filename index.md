@@ -3,8 +3,9 @@
 
 
 ### DATA SCIENCE 
+
+[COVID-19 Global Dashboard](https://lookerstudio.google.com/reporting/31a5e879-1a0c-4126-aba1-cc60bcd6cfb9)
 <!--
-[Project 1 Title](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
