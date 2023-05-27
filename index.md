@@ -9,7 +9,7 @@
 <img src="images/dashboard.png?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Data Analysis with DVDRental Dataset](/pdf/dvdrental_data_analysis.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
