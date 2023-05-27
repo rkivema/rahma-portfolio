@@ -10,7 +10,8 @@
 
 ---
 [Data Analysis with DVDRental Dataset](/pdf/dvdrental_data_analysis.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+<img src="images/DVDRental Data Analysis.png?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
