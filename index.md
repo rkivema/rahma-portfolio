@@ -14,6 +14,11 @@
 <img src="images/DVDRental Data Analysis.png?raw=true"/>
 
 ---
+[Home Credit Risk Scoring: Predicting Loan Default with Machine Learning](https://lookerstudio.google.com/reporting/56a96163-2bce-4525-9d22-dfbd60f3941e)
+
+<img src="images/?raw=true"/>
+
+---
 
 ### WEBSITE DESIGN
 
