@@ -15,6 +15,11 @@
 <img src="images/DVDRental Data Analysis.png?raw=true"/>
 
 ---
+[E-Commers Sale Dashboard]((https://lookerstudio.google.com/reporting/c34e8651-10a8-4d82-816f-962ea1fe919a))
+
+<img src="images/dashboard_penjualan_ecommers.png?raw=true"/>
+
+---
 [Home Credit Risk Scoring: Predicting Loan Default with Machine Learning (Team)](https://colab.research.google.com/drive/1aCKLdKQlPNwGDaNrIkXVHTCt9Wlq2ovf?usp=sharing) | [Dashboard](https://lookerstudio.google.com/reporting/56a96163-2bce-4525-9d22-dfbd60f3941e)
 
 <img src="images/Home_Credit_Risk_Scoring_Dashboard.png?raw=true"/>
