@@ -15,7 +15,7 @@
 <img src="images/DVDRental Data Analysis.png?raw=true"/>
 
 ---
-[E-Commers Sale Dashboard]((https://lookerstudio.google.com/reporting/c34e8651-10a8-4d82-816f-962ea1fe919a))
+[E-Commers Sale Dashboard](https://lookerstudio.google.com/reporting/c34e8651-10a8-4d82-816f-962ea1fe919a)
 
 <img src="images/dashboard_penjualan_ecommers.png?raw=true"/>
 
