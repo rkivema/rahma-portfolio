@@ -14,7 +14,7 @@
 <img src="images/DVDRental Data Analysis.png?raw=true"/>
 
 ---
-[Home Credit Risk Scoring: Predicting Loan Default with Machine Learning (Team)](https://lookerstudio.google.com/reporting/56a96163-2bce-4525-9d22-dfbd60f3941e) ([Google Colab Link](https://colab.research.google.com/drive/1aCKLdKQlPNwGDaNrIkXVHTCt9Wlq2ovf?usp=sharing))
+[Home Credit Risk Scoring: Predicting Loan Default with Machine Learning (Team)](https://colab.research.google.com/drive/1aCKLdKQlPNwGDaNrIkXVHTCt9Wlq2ovf?usp=sharing) ([Dashboard](https://lookerstudio.google.com/reporting/56a96163-2bce-4525-9d22-dfbd60f3941e))
 
 <img src="images/Home_Credit_Risk_Scoring_Dashboard.png?raw=true"/>
 
