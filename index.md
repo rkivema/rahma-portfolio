@@ -87,7 +87,7 @@
 
 ## Dashboard
 
-### COVID-19 Global Dashboard]
+### COVID-19 Global Dashboard
 [![View Looker](https://img.shields.io/badge/Looker-Open_Looker_Studio-blue?logo=Looker)](https://lookerstudio.google.com/reporting/31a5e879-1a0c-4126-aba1-cc60bcd6cfb9){:target="_blank"}
 [![View Kaggle](https://img.shields.io/badge/Kaggle-Dataset_from_Kaggle-blue?logo=kaggle)](https://www.kaggle.com/competitions/covid19-global-forecasting-week-5/data){:target="_blank"}
 
@@ -126,7 +126,7 @@
 
 ## WEBSITE DESIGN
 
-### A Sneaker Recommendation Website: GetSneakers]
+### A Sneaker Recommendation Website: GetSneakers
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/rkivema/website-getsneakers){:target="_blank"}
 
 <div style="text-align: justify">
