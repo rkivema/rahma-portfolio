@@ -184,7 +184,7 @@
 ## Certification
 
 ### RevoU Mini Course – Intro to Data Analytics
-[![View credentials](https://img.shields.io/badge/Credentials-View_Credentials-blue?logo=Credentials)](https://certificates.revou.co/rahma-amalia-certificate-completion-damc23.pdf){:target="_blank"}
+[![View credentials](https://img.shields.io/badge/RevoU-View_Credentials-blue?logo=Credentials)](https://certificates.revou.co/rahma-amalia-certificate-completion-damc23.pdf){:target="_blank"}
 
 <div style="text-align: justify">
     <strong>Published: January 2023</strong>
@@ -202,7 +202,7 @@
 ---
 
 ### MySkill Short Class – Introduction to SQL
-[![View credentials](https://img.shields.io/badge/Credentials-View_Credentials-blue?logo=Credentials)](https://drive.google.com/file/d/1M5EU1P1CPeXQMTbWJbTjIs9_smCLaxy6/view?usp=sharing){:target="_blank"}
+[![View credentials](https://img.shields.io/badge/MySkill-View_Credentials-blue?logo=Credentials)](https://drive.google.com/file/d/1M5EU1P1CPeXQMTbWJbTjIs9_smCLaxy6/view?usp=sharing){:target="_blank"}
 
 <div style="text-align: justify">
     <strong>Published: February 2023</strong>
@@ -220,7 +220,7 @@
 ---
 
 ### Zenius Program Certified Independent Studies (Kampus Merdeka’s Program) – Data Analytics
-[![View credentials](https://img.shields.io/badge/Credentials-View_Credentials-blue?logo=Credentials)](https://drive.google.com/file/d/1ydYWoaFZCOlbpMxTAImIltx5ts06zZ-G/view?pli=1){:target="_blank"}
+[![View credentials](https://img.shields.io/badge/Zenius-View_Credentials-blue?logo=Credentials)](https://drive.google.com/file/d/1ydYWoaFZCOlbpMxTAImIltx5ts06zZ-G/view?pli=1){:target="_blank"}
 
 <div style="text-align: justify">
     <strong>Published: Juni 2023</strong>
