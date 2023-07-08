@@ -43,6 +43,30 @@
 </center>
 ---
 
+### Prediction of House Prices
+[![Open Colaboratory](https://img.shields.io/badge/Google_Colaboratory-Open_Colaboratory-blue?logo=Google-Colab)](https://colab.research.google.com/drive/13z2dN-1FFCWgwDqaci1FOu_IYFxTBkA5?usp=sharing){:target="_blank"}
+
+<div style="text-align: justify">
+    <strong>Objective:</strong>
+        <br>
+        Many people are interested in buying or selling a home and want to know the fair market price for the property. Therefore, the purpose of the house prices dataset is to predict house prices based on the features associated with the house. The "SalePrice" variable in the train dataset becomes the target variable to be predicted.
+        <br>
+    <br>
+</div>
+
+<center>
+    <img src="images/Home_Credit_Risk_Scoring_Dashboard.png" class="image-with-shadow" width="90%" height="90%">
+    <br>
+    <br>
+    <img src="images/Home_Credit_Risk_Scoring_Dashboard.png" class="image-with-shadow" width="90%" height="90%">
+    <br>
+    <br>
+    <img src="images/Home_Credit_Risk_Scoring_Dashboard.png" class="image-with-shadow" width="90%" height="90%">
+    <br>
+</center>
+---
+
+## Dashboard
 [COVID-19 Global Dashboard](https://lookerstudio.google.com/reporting/31a5e879-1a0c-4126-aba1-cc60bcd6cfb9) ([Dataset from kaggle](https://www.kaggle.com/competitions/covid19-global-forecasting-week-5/data))
 
 <img src="images/dashboard new.png?raw=true"/>
@@ -59,7 +83,7 @@
 
 ---
 
-### WEBSITE DESIGN
+## WEBSITE DESIGN
 
 - [A Sneaker Recommendation Website: GetSneakers](https://github.com/rkivema/website-getsneakers) 
 
