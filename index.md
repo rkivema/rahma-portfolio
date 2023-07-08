@@ -161,7 +161,7 @@
 ## Research
 
 ### Mobile-Based Learning Application for Junior High Scool Level "MATH EDU" Using Agile Method
-[![View publication](https://img.shields.io/badge/Publication-View_Publication-blue?logo=publication)](https://nscpolteksby.ac.id/ejournal/index.php/jbt/article/view/210/168){:target="_blank"}
+[![View publication](https://img.shields.io/badge/JBT-View_Publication-blue?logo=publication)](https://nscpolteksby.ac.id/ejournal/index.php/jbt/article/view/210/168){:target="_blank"}
 
 <div style="text-align: justify">
     <strong>Abstract:</strong>
