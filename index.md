@@ -164,12 +164,12 @@
 [![View publication](https://img.shields.io/badge/Publication-View_Publication-blue?logo=publication)](https://nscpolteksby.ac.id/ejournal/index.php/jbt/article/view/210/168){:target="_blank"}
 
 <div style="text-align: justify">
-        <br>
-        Original Title (in Indonesian): Pengembangan Aplikasi Belajar Jenjang SMP MATH EDU Berbasis Mobile dengan Metode Agile
-        <br>
     <strong>Abstract:</strong>
         <br>
        Towards  society  5.0  all  activities  become  more  dominant  in  the  eraof  digitalization.  The  amount  of  material  that  is carried for students but is constrained by time constraints at school makes it difficult to repeat the material individually.Due  to  the  anxiety  of  students  who  find  it  difficult  to  get  complete  material  in  their  review,  we  made  this  mobile application.  The  system  concept  in  this  mobile  application  is  that  students  can  access  materials  online  and  offline, download  subject  matter  in  the  application,  take  tests  that  have  been  provided  by  the  administrator,  and  conduct discussions in the  forums available  in the  application. The modeling used in the preparation of this application is the agile method. In accordance with the goal, namely to provide convenience to junior high school students, the output and results of the design and development of this mobile application are to become a new container and means of learning.
+        <br>
+        <br>
+        Original Title (in Indonesian): Pengembangan Aplikasi Belajar Jenjang SMP MATH EDU Berbasis Mobile dengan Metode Agile
         <br>
     <br>
 </div>
