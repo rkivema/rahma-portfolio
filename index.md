@@ -60,9 +60,6 @@
     <br>
     <img src="images/rmsoflinearregression_houseprice.png" class="image-with-shadow" width="90%" height="90%">
     <br>
-    <br>
-    <img src="images/summarylinearregression_houseprice.png" class="image-with-shadow" width="90%" height="90%">
-    <br>
 </center>
 ---
 
@@ -88,11 +85,12 @@
         </div>
 </center>
 ---
+
 ## Dashboard
 
 ### COVID-19 Global Dashboard]
 [![View Looker](https://img.shields.io/badge/Looker-Open_Looker_Studio-blue?logo=Looker)](https://lookerstudio.google.com/reporting/31a5e879-1a0c-4126-aba1-cc60bcd6cfb9){:target="_blank"}
-[![Dataset from kaggle](https://img.shields.io/badge/Kaggle-blue?logo=kaggle)](https://www.kaggle.com/competitions/covid19-global-forecasting-week-5/data){:target="_blank"}
+[![View Kaggle](https://img.shields.io/badge/Kaggle-Dataset_from_Kaggle-blue?logo=kaggle)](https://www.kaggle.com/competitions/covid19-global-forecasting-week-5/data){:target="_blank"}
 
 <div style="text-align: justify">
     <strong>Objective:</strong>
@@ -129,7 +127,62 @@
 
 ## WEBSITE DESIGN
 
-- [A Sneaker Recommendation Website: GetSneakers](https://github.com/rkivema/website-getsneakers) 
+### A Sneaker Recommendation Website: GetSneakers]
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/rkivema/website-getsneakers){:target="_blank"}
+
+<div style="text-align: justify">
+    <strong>Objective:</strong>
+        <br>
+        GET SNEAKERS WEBSITE is a website design that contains sneakers recommendations for men, women, and children. This website has several shoe brand recommendations, namely Nike, Adidas, Converse, and Fila. Apart from that, this website also has a "Contact Us" page so that users can give their opinion about sneakers.
+        <br>
+    <br>
+</div>
+
+<center>
+    <img src="images/webdesign_home" class="image-with-shadow" width="90%" height="90%">
+    <br>
+    <br>
+    <img src="images/webdesign_nike" class="image-with-shadow" width="90%" height="90%">
+    <br>
+    <br>
+    <img src="images/webdesign_adidas" class="image-with-shadow" width="90%" height="90%">
+    <br>
+    <br>
+    <img src="images/webdesign_converse" class="image-with-shadow" width="90%" height="90%">
+    <br>
+    <br>
+    <img src="images/webdesign_fila" class="image-with-shadow" width="90%" height="90%">
+    <br>
+    <br>
+    <img src="images/webdesign_contactus" class="image-with-shadow" width="90%" height="90%">
+    <br>
+</center>
+---
+
+## Research
+
+### Mobile-Based Learning Application for Junior High Scool Level "MATH EDU" Using Agile Method
+[![View publication](https://img.shields.io/badge/Publication-View_Publication-blue?logo=publication)](https://nscpolteksby.ac.id/ejournal/index.php/jbt/article/view/210/168){:target="_blank"}
+
+<div style="text-align: justify">
+        <br>
+        Original Title (in Indonesian): Pengembangan Aplikasi Belajar Jenjang SMP MATH EDU Berbasis Mobile dengan Metode Agile
+        <br>
+    <strong>Abstract:</strong>
+        <br>
+       Towards  society  5.0  all  activities  become  more  dominant  in  the  eraof  digitalization.  The  amount  of  material  that  is carried for students but is constrained by time constraints at school makes it difficult to repeat the material individually.Due  to  the  anxiety  of  students  who  find  it  difficult  to  get  complete  material  in  their  review,  we  made  this  mobile application.  The  system  concept  in  this  mobile  application  is  that  students  can  access  materials  online  and  offline, download  subject  matter  in  the  application,  take  tests  that  have  been  provided  by  the  administrator,  and  conduct discussions in the  forums available  in the  application. The modeling used in the preparation of this application is the agile method. In accordance with the goal, namely to provide convenience to junior high school students, the output and results of the design and development of this mobile application are to become a new container and means of learning.
+        <br>
+    <br>
+</div>
+
+<center>
+    <img src="images/publication_mathedu" class="image-with-shadow" width="90%" height="90%">
+    <br>
+    <br>
+</center>
+---
+
+## Certification
 
 ---
 
