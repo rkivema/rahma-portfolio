@@ -195,7 +195,7 @@
 </div>
 
 <center>
-    <img src="images/certification_revou.png" class="image-with-shadow" width="90%" height="90%">
+    <img src="images/certification_revou.jpg" class="image-with-shadow" width="90%" height="90%">
     <br>
     <br>
 </center>
@@ -213,7 +213,7 @@
 </div>
 
 <center>
-    <img src="images/certification_myskill.png" class="image-with-shadow" width="90%" height="90%">
+    <img src="images/certification_myskill.jpg" class="image-with-shadow" width="90%" height="90%">
     <br>
     <br>
 </center>
