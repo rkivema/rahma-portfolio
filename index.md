@@ -183,7 +183,58 @@
 
 ## Certification
 
+### RevoU Mini Course – Intro to Data Analytics
+[![View credentials](https://img.shields.io/badge/Credentials-View_Credentials-blue?logo=Credentials)](https://certificates.revou.co/rahma-amalia-certificate-completion-damc23.pdf){:target="_blank"}
+
+<div style="text-align: justify">
+    <strong>Published: January 2023</strong>
+        <br>
+       Learning about Introduction to Data Anlytics, Data Analytics in Business, Basic SQL, and Data Visualization (Google Data Studio and Looker Studio). There are also Career Session and Alumni Sharing Session (How to Prepare Your Data Analytics Career +  How Data Analytics Changes My Life), CV Review, and Interview Tips.
+        <br>
+    <br>
+</div>
+
+<center>
+    <img src="images/certification_revou.png" class="image-with-shadow" width="90%" height="90%">
+    <br>
+    <br>
+</center>
 ---
+
+### MySkill Short Class – Introduction to SQL
+[![View credentials](https://img.shields.io/badge/Credentials-View_Credentials-blue?logo=Credentials)](https://drive.google.com/file/d/1M5EU1P1CPeXQMTbWJbTjIs9_smCLaxy6/view?usp=sharing){:target="_blank"}
+
+<div style="text-align: justify">
+    <strong>Published: February 2023</strong>
+        <br>
+       Learning about Introduction to Database and SQL, SQL Function, SQL Data Type (Using PostgreSQL), SQL Role in the Industrial World, Demonstration.
+        <br>
+    <br>
+</div>
+
+<center>
+    <img src="images/certification_myskill.png" class="image-with-shadow" width="90%" height="90%">
+    <br>
+    <br>
+</center>
+---
+
+### Zenius Program Certified Independent Studies (Kampus Merdeka’s Program) – Data Analytics
+[![View credentials](https://img.shields.io/badge/Credentials-View_Credentials-blue?logo=Credentials)](https://drive.google.com/file/d/1ydYWoaFZCOlbpMxTAImIltx5ts06zZ-G/view?pli=1){:target="_blank"}
+
+<div style="text-align: justify">
+    <strong>Published: Juni 2023</strong>
+        <br>
+       Learning about Logic, argumentation, and scientific reasoning; Basics of data science, python, data analysis, data visualization; Exploratory data analysis and statistics for data science; database, sql, and dashboard data; also there is a Final Project. Final project regarding the creation of data science solutions to credit scoring problems (Home Credit Risk Scoring Dataset) using the CRISP-DM framework and creation of a dashboard related to NLP monitoring.
+        <br>
+    <br>
+</div>
+
+<center>
+    <img src="images/certification_zenius.png" class="image-with-shadow" width="90%" height="90%">
+    <br>
+    <br>
+</center>
 
 
 
