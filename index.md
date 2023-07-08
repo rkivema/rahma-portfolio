@@ -66,7 +66,6 @@
 ## Data Analysis
 
 ### Data Analysis with DVDRental Dataset
-
 <div style="text-align: justify">
     <strong>Objective:</strong>
         <br>
@@ -139,22 +138,22 @@
 </div>
 
 <center>
-    <img src="images/webdesign_home" class="image-with-shadow" width="90%" height="90%">
+    <img src="images/webdesign_home.png" class="image-with-shadow" width="90%" height="90%">
     <br>
     <br>
-    <img src="images/webdesign_nike" class="image-with-shadow" width="90%" height="90%">
+    <img src="images/webdesign_nike.png" class="image-with-shadow" width="90%" height="90%">
     <br>
     <br>
-    <img src="images/webdesign_adidas" class="image-with-shadow" width="90%" height="90%">
+    <img src="images/webdesign_adidas.png" class="image-with-shadow" width="90%" height="90%">
     <br>
     <br>
-    <img src="images/webdesign_converse" class="image-with-shadow" width="90%" height="90%">
+    <img src="images/webdesign_converse.png" class="image-with-shadow" width="90%" height="90%">
     <br>
     <br>
-    <img src="images/webdesign_fila" class="image-with-shadow" width="90%" height="90%">
+    <img src="images/webdesign_fila.png" class="image-with-shadow" width="90%" height="90%">
     <br>
     <br>
-    <img src="images/webdesign_contactus" class="image-with-shadow" width="90%" height="90%">
+    <img src="images/webdesign_contactus.png" class="image-with-shadow" width="90%" height="90%">
     <br>
 </center>
 ---
@@ -176,7 +175,7 @@
 </div>
 
 <center>
-    <img src="images/publication_mathedu" class="image-with-shadow" width="90%" height="90%">
+    <img src="images/publication_mathedu.png" class="image-with-shadow" width="90%" height="90%">
     <br>
     <br>
 </center>
