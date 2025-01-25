@@ -15,7 +15,7 @@
 ### Home Credit Risk Scoring: Predicting Loan Default with Machine Learning (Team)
 [![Open Colaboratory](https://img.shields.io/badge/Google_Colaboratory-Open_Colaboratory-blue?logo=Google-Colab)](https://colab.research.google.com/drive/1aCKLdKQlPNwGDaNrIkXVHTCt9Wlq2ovf?usp=sharing){:target="_blank"}
 [![View Looker](https://img.shields.io/badge/Looker-Open_Looker_Studio-blue?logo=Looker)](https://lookerstudio.google.com/reporting/56a96163-2bce-4525-9d22-dfbd60f3941e){:target="_blank"}
-[![View Presentation](https://img.shields.io/badge/Canva-Open_Canva-blue?logo=Canva)](https://www.canva.com/design/DAFk9d8xLGs/MF4NumKPF0mZtVmXCyQbAA/view){:target="_blank"}
+[![View Presentation](https://img.shields.io/badge/Canva-Open_Presentation-blue?logo=Canva)](https://www.canva.com/design/DAFk9d8xLGs/MF4NumKPF0mZtVmXCyQbAA/view){:target="_blank"}
 
 <div style="text-align: justify">
     <strong>Objective:</strong>
@@ -64,6 +64,7 @@
 ## Data Analysis
 
 ### Data Analysis with DVDRental Dataset
+[![View Presentation](https://img.shields.io/badge/Canva-Open_Presentation-blue?logo=Canva)](https://www.canva.com/design/DAFjCg831nk/gFVRbSpmSWYY5bRML2C_dQ/view){:target="_blank"}
 <div style="text-align: justify">
     <strong>Objective:</strong>
         <br>
@@ -76,9 +77,6 @@
         <div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%;
         padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
         border-radius: 8px; will-change: transform;">
-        <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
-            src="https://www.canva.com/design/DAFjCg831nk/gFVRbSpmSWYY5bRML2C_dQ/view" allowfullscreen="allowfullscreen" allow="fullscreen">
-        </iframe>
         </div>
 </center>
 ---
