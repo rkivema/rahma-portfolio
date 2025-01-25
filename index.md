@@ -72,6 +72,9 @@
     <br>
     <img src="images/dvdrentalanalysis.png" class="image-with-shadow" width="90%" height="90%">
     <br>
+    <br>
+    <img src="images/dvdrentalanalysis1.png" class="image-with-shadow" width="90%" height="90%">
+    <br>
 </center>
 </div>
 ---
