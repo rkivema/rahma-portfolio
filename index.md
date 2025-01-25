@@ -68,6 +68,7 @@
         Using the DVDRental dataset, there are several questions as attached on the slide below and the results of the analysis using SQL Query on the PostgreSQL software. (Detail presentation in Canva link)
         <br>
     <br>
+</div>
 <center>  
     <br>
     <img src="images/dvdrentalanalysis.png" class="image-with-shadow" width="90%" height="90%">
@@ -76,7 +77,6 @@
     <img src="images/dvdrentalanalysis1.png" class="image-with-shadow" width="90%" height="90%">
     <br>
 </center>
-</div>
 ---
 
 ## Dashboard
