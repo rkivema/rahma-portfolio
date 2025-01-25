@@ -1,8 +1,9 @@
 title: Rahma Amalia # your name (or website title) here
 logo: "/images/profile.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
+  <div style="text-align: justify">
   An undergraduate degree holder in Informatics Engineering from Universitas Negeri Surabaya. Proficient in developing data products such as dashboards and experienced in data analysis using Python.
-  <br></br>
+  </div>
   <small><a href="https://www.linkedin.com/in/rahmaamalia26/">View My LinkedIn Profile</a></small> 
   
 theme: jekyll-theme-minimal
