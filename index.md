@@ -65,7 +65,7 @@
 <div style="text-align: justify">
     <strong>Objective:</strong>
         <br>
-        Using the DVDRental dataset, there are several questions as attached on the slide below and the results of the analysis using SQL Query on the PostgreSQL software
+        Using the DVDRental dataset, there are several questions as attached on the slide below and the results of the analysis using SQL Query on the PostgreSQL software. (Detail presentation in Canva link)
         <br>
     <br>
 <center>  
