@@ -15,7 +15,7 @@
 ### Home Credit Risk Scoring: Predicting Loan Default with Machine Learning (Team)
 [![Open Colaboratory](https://img.shields.io/badge/Google_Colaboratory-Open_Colaboratory-blue?logo=Google-Colab)](https://colab.research.google.com/drive/1aCKLdKQlPNwGDaNrIkXVHTCt9Wlq2ovf?usp=sharing){:target="_blank"}
 [![View Looker](https://img.shields.io/badge/Looker-Open_Looker_Studio-blue?logo=Looker)](https://lookerstudio.google.com/reporting/56a96163-2bce-4525-9d22-dfbd60f3941e){:target="_blank"}
-[![View Presentation](https://img.shields.io/badge/Looker-Open_Looker_Studio-blue?logo=Looker)](https://www.canva.com/design/DAFk9d8xLGs/MF4NumKPF0mZtVmXCyQbAA/view){:target="_blank"}
+[![View Presentation](https://img.shields.io/badge/Canva-Open_Canva-blue?logo=Canva)](https://www.canva.com/design/DAFk9d8xLGs/MF4NumKPF0mZtVmXCyQbAA/view){:target="_blank"}
 
 <div style="text-align: justify">
     <strong>Objective:</strong>
