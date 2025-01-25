@@ -34,10 +34,6 @@
     <br>
     <img src="images/dtwithhypertuning_confussionmatrix.png" class="image-with-shadow" width="90%" height="90%">
     <br>
-        <div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%;
-        padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
-        border-radius: 8px; will-change: transform;">
-        </div>
 </center>
 ---
 
@@ -53,6 +49,7 @@
 </div>
 
 <center>
+    <br>
     <img src="images/evaluationperform_houseprice.png" class="image-with-shadow" width="90%" height="90%">
     <br>
     <br>
@@ -71,14 +68,12 @@
         Using the DVDRental dataset, there are several questions as attached on the slide below and the results of the analysis using SQL Query on the PostgreSQL software
         <br>
     <br>
-</div>
-
-<center>
-        <div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%;
-        padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
-        border-radius: 8px; will-change: transform;">
-        </div>
+<center>  
+    <br>
+    <img src="images/dvdrentalanalysis.png" class="image-with-shadow" width="90%" height="90%">
+    <br>
 </center>
+</div>
 ---
 
 ## Dashboard
