@@ -173,6 +173,26 @@
     <br>
     <br>
 </center>
+
+### Classification of High School Teachers' Satisfaction in Banyuwangi Regency Towards the Merdeka Mengajar Application Using the Naïve Bayes Algorithm
+[![View publication](https://img.shields.io/badge/Jinacs-View_Publication-blue?logo=publication)](https://ejournal.unesa.ac.id/index.php/jinacs/article/view/60927/46832){:target="_blank"}
+
+<div style="text-align: justify">
+    <strong>Abstract:</strong>
+        <br>
+       This research aims to identify indicators that influence the satisfaction of high school teachers in Banyuwangi Regency as users of the Merdeka Mengajar application, and to classify and evaluate using the Naïve Bayes algorithm. The subjects of the study were high school teachers at SMAN 1 Pesanggaran, SMAN 1 Bangorejo, and SMAN 1 Glenmore. Data were collected through a questionnaire based on the DeLone and McLean user satisfaction model. The research method was a quantitative survey. Data analysis used Information Gain and Gain Ratio for feature selection, followed by the application of the Naïve Bayes algorithm. The analysis results showed that indicators such as Empathy (SEQ2), Availability (SQ2), and Responsiveness (SEQ3) had the highest Information Gain and Gain Ratio values. Model classification evaluation with confusion matrix and evaluation metrics (accuracy, precision, and recall) indicated that Information Gain and Gain Ratio feature selection improved model performance. Information Gain feature selection showed the highest accuracy of 92.63%, precision of 98.18%, and recall of 90.31%, while Gain Ratio feature selection showed an accuracy of 92.89%, precision of 98.75%, and recall of 90.31%. The conclusion of this study is that the use of Information Gain and Gain Ratio feature selection can improve the classification performance of the Naïve Bayes algorithm in measuring teacher satisfaction with the Merdeka Mengajar application. Indicators such as Empathy, Availability, and Responsiveness are crucial in determining user satisfaction. Recommendations for future research include testing this model on a larger sample and applying other machine learning methods to compare model performance.
+        <br>
+        <br>
+        Original Title (in Indonesian): Klasifikasi Kepuasan Guru SMA di Kabupaten Banyuwangi Terhadap Aplikasi Merdeka Mengajar Menggunakan Algoritma Naive Bayes
+        <br>
+    <br>
+</div>
+
+<center>
+    <img src="images/ungradthesisjournal.png" class="image-with-shadow" width="90%" height="90%">
+    <br>
+    <br>
+</center>
 ---
 
 ## Certification
